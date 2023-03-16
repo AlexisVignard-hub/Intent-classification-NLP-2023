@@ -5,4 +5,4 @@ This paper focuses on the implementation of an NLP model for performing contextu
 
 Formally, we want to capture a double context : first, words importance vary from one sentence or conversation to another, and secondly, not every sentence in a conversation are equally important regarding the context of the conversation
 
-https://raw.githubusercontent.com/AlexisVignard-hub/Intent-classification-NLP-2023/main/FinalNLP.ipynb
+`https://raw.githubusercontent.com/AlexisVignard-hub/Intent-classification-NLP-2023/main/FinalNLP.ipynb`
